@@ -32,3 +32,4 @@
 3. GitHub Docs. (n.d.). About Projects. [online] Available at: https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects [Accessed 18 Aug. 2022].
 4. GitHub Docs. (n.d.). About Repositories. [online] Available at: https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories.
 5. Muller, J. (n.d.). CMPG 323 Semester Plan Kanban Guide. [online] GitHub. Available at: https://github.com/users/JacquiM/projects/16 [Accessed 18 Aug. 2022].
+6. www.theserverside.com. (n.d.). How to Use GitHub Actions Secrets to Hide Your Tokens and Passwords Example. [online] Available at: https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/GitHub-Actions-Secrets-Example-Token-Tutorial#:~:text=Secret%20tokens%20and%20GitHub%20Actions [Accessed 18 Aug. 2022].
