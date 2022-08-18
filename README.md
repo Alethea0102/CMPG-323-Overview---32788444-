@@ -25,3 +25,10 @@
 
 ## storage of credentials and sensitive information
 - All the credentials and sensitive information will be stored through github "ACTIONS" and each information will be categorized as credentials or sensitive  information.
+
+## References
+1. softchris (n.d.). What Is Version Control. [online] docs.microsoft.com. Available at: https://docs.microsoft.com/en-us/learn/modules/intro-to-git/1-what-is-vc   [Accessed 18 Aug. 2022].
+2. Visual Paradigm, (n.d.). What Is Burndown Chart in Scrum? [online] www.visual-paradigm.com. Available at: https://www.visual-paradigm.com/scrum/scrum-burndown-chart/.
+3. GitHub Docs. (n.d.). About Projects. [online] Available at: https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects [Accessed 18 Aug. 2022].
+4. GitHub Docs. (n.d.). About Repositories. [online] Available at: https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories.
+5. Muller, J. (n.d.). CMPG 323 Semester Plan Kanban Guide. [online] GitHub. Available at: https://github.com/users/JacquiM/projects/16 [Accessed 18 Aug. 2022].
